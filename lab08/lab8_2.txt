@@ -1,0 +1,38 @@
+Exercise 8.2
+a)
+  i. The component system essentially is a modularization of the structure of a
+      given application. It provides something like OO patterns of design, with
+      every different piece of the application responsible for handling its own
+      responsibilities. This makes the UI very functional in that it can be composed
+      of different elements each doing their own thing but working together in harmony
+      to create a beautiful UI.
+  ii. JSX basically allows you to use a more xml-y syntax for the purposes of using
+      react functions like createElement().
+  iii. React is safe with respect to XSS because it doesn't just throw strings into
+       the html, it puts specific React components in.
+  iv. Data flows from parent to child and back up, essentially. That is, on initial
+      creation, the commentBox component loads comments from the server, and then
+      builds the essential components to display those comments. However, when a
+      new comment is added, the commentForm component sends the data to the server
+      and back up to the commentBox component.
+  v.  Props are immutable, while state is mutable. This distinction is important
+      because, with how React is designed, one component (commentBox) is solely responsible
+      for the state, with its subcomponents having props that reflect the state.
+      So, when a component needs its prop updated, it always goes through the commentBox
+      component first.
+      
+b)
+  i. If I delete a comment in the comments.json file, it disappears in the application
+     after a brief delay. This is because we hardcoded the commentBox to get updated
+     values from our server every 2 seconds.
+  ii. It doesn't do this because none of the comments might be different, and it would
+      be inefficient to rerender every time you tried to update. Instead, it relies on
+      the comments it creates to then go through and call render as they are created.
+  iii. This ensures that the components do not get out of sync with what the user actually
+       views. The advantage is that you never have to worry about synchronization between
+       the DOM and the components.
+  iv. It isn't really foolish, no. If the server rejects the comment, then it will
+      just disappear from the commentList after two seconds. And, if your servers are
+      of sufficient quality (and your code is actually good enough to handle it)
+      most of the time the server will not be rejecting comments. If it does, then
+      there is a deeper problem than User Experience to worry about.
