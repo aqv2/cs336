@@ -1,0 +1,3 @@
+11.1
+	a) The development deployment is designed to automatically update and refresh when we make changes. The production deployment is designed to stay static, so that (if it is already working) it stays working until you manually stop it and rebuild it.
+	b) Optimizations include: a)occurence order, b)uglification, c)extract text, and d)auto-prefixing. These accomplish, respectively, a)minimizing  chunk ids, b)minizing scripts, c)extracting css modules into their own file, and d)add automatic css prefixes based on browser popularity. I couldn't seem to find evidence of these . . .
