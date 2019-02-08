@@ -1,0 +1,22 @@
+9.1
+  a) It has made a bundle of all the necessary things so that we don't have to send
+     a bunch of files and can instead send one. The only file of mine that is being
+     loaded is bundle.js. It is 243 B in size.
+  b) Babel compiles your javascript into equivalent prior versions of javascript so that
+     you can write your code in the latest version, even if it is not fully supported
+     by all browsers.
+  c) No, because the server doesn't allow you too. I get a "cannot GET" message.
+  d) It allows you to pre-process jsx files as they are loaded.
+
+9.2
+  a) dist/index.html looks exactly the same to me. As for bundle.js it is 2 B larger, apparently.
+  b) It allows things to be more compact and compressed, which in turn makes things
+     run faster.
+  c) None of them, it's still just bundle.js being loaded.
+
+9.3
+  a) So 3001 (the dev one) automatically reloads when the code is edited and saved
+     in contrast, 3000 stays working even if we have broken code.
+  b) Definitely! With this way of doing things, you can make changes and fix bugs
+     dynamically without having a huge amount of downtime every time there is a
+     problem.

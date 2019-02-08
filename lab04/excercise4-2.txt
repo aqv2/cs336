@@ -1,0 +1,3 @@
+The standards seem fine; especially since they didn't really have any issue width
+my HTML. The CSS checker gave an error message and said it was over quota, so
+I don't know about the results of that.

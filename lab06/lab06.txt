@@ -1,0 +1,16 @@
+6.1
+a) The browser can pretty much only directly test GET requests (you would have to use dev tools to test others).
+  This is because that is all that browsers were designed to do: get and display information.
+  Successful curl commands:
+    curl -X POST localhost:3000/request -d '{"arg":"value"}' -H 'Content-Type: application/json'
+    curl -X PUT localhost:3000/request -d '{"arg":"value"}' -H 'Content-Type: application/json'
+    curl -X GET localhost:3000/request
+    curl --head localhost:3000/request
+    curl -x DELETE localhost:3000/request
+
+b) The most appropriate route is a 404 file not found (even though you told us to do something different here).
+
+
+6.2
+a) Forms support the POST and GET methods.
+b) The form data is being passed back to the server as JSON via a path that you handle in your server.

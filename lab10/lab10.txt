@@ -1,0 +1,9 @@
+10.1
+	a) Mongo is much more open, free, and decentralized. This makes sense, because it does not have a schema defining the overall structure of everything. SQL is better if you need that structure, but if you are dealing with a constantly changing database, it is better to have the flexibility of mongodb.
+	b) Well, if it were run locally, this machine would have to be up and running for that database to be accessed. As such, this would NOT work for a production environment (unless, of course, you are running it on an always-on server). It would be faster, though, because accessing data locally is always faster than accessing it via the internet.
+	c) You could not, because mLab only provides you a half gig of space to work with, which would be hugely insufficient for any sort of production database that cares about data persistence.
+	
+10.2
+	a) I just used npm run dev for this project and it worked just fine. There was no appreciable difference that I could discern between them.
+	b) What happens is the comment disappears from the web app when it is manually deleted from the database with mLab's web UI.
+	c) I would say NoSQL, because there is just less overhead, and with an application this simple, it is not like your documents are going to get super complicated in such a way that the added structure of a SQL database would be beneficial.

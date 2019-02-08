@@ -1,0 +1,15 @@
+Link: https://lab11-comments.herokuapp.com/
+
+13.1:
+	a) None yet, because we haven't implemented any actual routes yet.
+	b) Browser history is definitely better, because it makes things much more clean
+		 by using headers instead of the literal URL to encode information.
+	c) This is because the browser history doesn't directly affect the routes, while the hash
+		 history does.
+
+13.2:
+	a) It maintains a componentDidUpdate state, which the commentBox component does not.
+	b) It refreshes the values of the affected comments. By contrast, cancel just sends
+		 you back to the home page without doing anything.
+	c) It links via the react router to a different component (the commentBox component)
+		 rather than linking to a totally different page of HTML.
