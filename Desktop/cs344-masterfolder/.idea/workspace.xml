@@ -2,72 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3de95410-4ace-4110-b824-21637b6ab07d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/cs344/lab03/queens.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cs344/lab03/sudoku.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cs344/lab03/zebra.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cs344/lab02/sine.py" beforeDir="false" afterPath="$PROJECT_DIR$/cs344/lab02/sine.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cs344/tools/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cs344/tools/aima/.flake8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cs344/tools/aima/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cs344/tools/aima/.gitmodules" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cs344/tools/aima/.travis.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cs344/tools/aima/CONTRIBUTING.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cs344/tools/aima/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cs344/tools/aima/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cs344/tools/aima/SUBMODULE.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cs344/tools/aima/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cs344/tools/aima/agents.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cs344/tools/aima/agents.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cs344/tools/aima/csp.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cs344/tools/aima/csp.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cs344/tools/aima/games.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cs344/tools/aima/games.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cs344/tools/aima/index.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cs344/tools/aima/intro.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cs344/tools/aima/ipyviews.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cs344/tools/aima/knowledge.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cs344/tools/aima/knowledge_FOIL.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cs344/tools/aima/knowledge_current_best.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cs344/tools/aima/knowledge_version_space.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cs344/tools/aima/learning.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cs344/tools/aima/learning.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cs344/tools/aima/learning_apps.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cs344/tools/aima/logic.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cs344/tools/aima/logic.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cs344/tools/aima/mdp.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cs344/tools/aima/mdp.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cs344/tools/aima/mdp_apps.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cs344/tools/aima/neural_nets.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cs344/tools/aima/nlp.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cs344/tools/aima/nlp.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cs344/tools/aima/nlp_apps.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cs344/tools/aima/notebook.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cs344/tools/aima/planning.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cs344/tools/aima/planning.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cs344/tools/aima/planning_angelic_search.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cs344/tools/aima/planning_graphPlan.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cs344/tools/aima/planning_hierarchical_search.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cs344/tools/aima/planning_partial_order_planner.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cs344/tools/aima/planning_total_order_planner.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cs344/tools/aima/probability-4e.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cs344/tools/aima/probability.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cs344/tools/aima/probability.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cs344/tools/aima/pytest.ini" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cs344/tools/aima/requirements.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cs344/tools/aima/rl.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cs344/tools/aima/rl.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cs344/tools/aima/search-4e.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cs344/tools/aima/search.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cs344/tools/aima/search.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cs344/tools/aima/text.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cs344/tools/aima/text.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cs344/tools/aima/utils.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cs344/tools/aima/vacuum_world.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cs344/tools/paip/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cs344/tools/paip/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/cs344/lab03/lab.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cs344/tools/paip/blocksworld.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cs344/tools/paip/gps.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cs344/tools/paip/monkeys.py" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/cs344/homework01/answer1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cs344/homework01/homework1.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cs344-code/tools/aima/search.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/cs344-code/tools/aima/search.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -76,37 +13,22 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/cs344_masterfolder$romania.coverage" NAME="romania Coverage Results" MODIFIED="1550667252413" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cs344-code/u02local" />
     <SUITE FILE_PATH="coverage/cs344_masterfolder$abs__1_.coverage" NAME="abs (1) Coverage Results" MODIFIED="1549638772522" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cs344/lab02" />
+    <SUITE FILE_PATH="coverage/cs344_masterfolder$romania__1_.coverage" NAME="romania (1) Coverage Results" MODIFIED="1550668870639" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cs344/lab02" />
     <SUITE FILE_PATH="coverage/cs344_masterfolder$sudoku.coverage" NAME="sudoku Coverage Results" MODIFIED="1550241086641" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cs344/lab03" />
-    <SUITE FILE_PATH="coverage/cs344_masterfolder$sine.coverage" NAME="sine Coverage Results" MODIFIED="1550238691155" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cs344/lab02" />
+    <SUITE FILE_PATH="coverage/cs344_masterfolder$sine.coverage" NAME="sine Coverage Results" MODIFIED="1550667039255" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cs344/lab02" />
+    <SUITE FILE_PATH="coverage/cs344_masterfolder$cs344_masterfolder.coverage" NAME="cs344-masterfolder Coverage Results" MODIFIED="1550684642618" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
     <SUITE FILE_PATH="coverage/cs344_masterfolder$abs.coverage" NAME="abs Coverage Results" MODIFIED="1549637687853" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cs344-code/u02local" />
     <SUITE FILE_PATH="coverage/cs344_masterfolder$queens.coverage" NAME="queens Coverage Results" MODIFIED="1550241764915" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cs344/lab03" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cs344/lab03/lab.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="54" lean-forward="true" selection-start-line="22" selection-start-column="54" selection-end-line="22" selection-end-column="54" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cs344/lab03/queens.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="43">
-              <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/cs344-code/tools/aima/csp.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="290" column="26" selection-start-line="290" selection-start-column="26" selection-end-line="290" selection-end-column="26" />
+        <entry file="file://$PROJECT_DIR$/cs344/homework01/homework1.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="7" />
             </state>
           </provider>
         </entry>
@@ -114,13 +36,34 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/cs344-code/tools/aima/search.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="50" column="33" lean-forward="true" selection-start-line="50" selection-start-column="33" selection-end-line="50" selection-end-column="33" />
+            <state relative-caret-position="493">
+              <caret line="1011" column="30" lean-forward="true" selection-start-line="1011" selection-start-column="30" selection-end-line="1011" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cs344/homework01/answer1.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="37" lean-forward="true" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>constraint</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/cs344-code" />
@@ -136,6 +79,8 @@
         <option value="$PROJECT_DIR$/cs344/lab03/queens.py" />
         <option value="$PROJECT_DIR$/cs344/lab03/lab.txt" />
         <option value="$PROJECT_DIR$/cs344-code/tools/aima/csp.py" />
+        <option value="$PROJECT_DIR$/cs344/homework01/answer1.txt" />
+        <option value="$PROJECT_DIR$/cs344/homework01/homework1.ipynb" />
       </list>
     </option>
   </component>
@@ -150,7 +95,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -162,6 +106,18 @@
               <item name="cs344-masterfolder" type="b2602c69:ProjectViewProjectNode" />
               <item name="cs344-masterfolder" type="462c0819:PsiDirectoryNode" />
               <item name="cs344" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cs344-masterfolder" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cs344-masterfolder" type="462c0819:PsiDirectoryNode" />
+              <item name="cs344" type="462c0819:PsiDirectoryNode" />
+              <item name="homework01" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cs344-masterfolder" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cs344-masterfolder" type="462c0819:PsiDirectoryNode" />
+              <item name="cs344" type="462c0819:PsiDirectoryNode" />
+              <item name="lab02" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="cs344-masterfolder" type="b2602c69:ProjectViewProjectNode" />
@@ -191,12 +147,19 @@
               <item name="cs344-masterfolder" type="b2602c69:ProjectViewProjectNode" />
               <item name="cs344-masterfolder" type="462c0819:PsiDirectoryNode" />
               <item name="cs344-code" type="462c0819:PsiDirectoryNode" />
+              <item name="u02local" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cs344-masterfolder" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cs344-masterfolder" type="462c0819:PsiDirectoryNode" />
+              <item name="cs344-code" type="462c0819:PsiDirectoryNode" />
               <item name="u03constraint" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -227,8 +190,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.queens">
-    <configuration name="abs (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.romania (1)">
+    <configuration name="cs344-masterfolder" type="JupiterNotebook" factoryName="Jupyter Notebook">
       <module name="cs344-masterfolder" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -236,40 +199,14 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cs344/lab02" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cs344/lab02/abs.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="abs" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="cs344-masterfolder" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cs344-code/u02local" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cs344-code/u02local/abs.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="ipnbHost" value="127.0.0.1" />
+      <option name="ipnbPort" value="8888" />
       <method v="2" />
     </configuration>
     <configuration name="queens" type="PythonConfigurationType" factoryName="Python" temporary="true">
@@ -286,6 +223,50 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cs344/lab03/queens.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="romania (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="cs344-masterfolder" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cs344/lab02" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cs344/lab02/romania.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="romania" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="cs344-masterfolder" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cs344-code/u02local" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cs344-code/u02local/romania.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -340,11 +321,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.romania (1)" />
+        <item itemvalue="Python.romania" />
+        <item itemvalue="Python.sine" />
         <item itemvalue="Python.queens" />
         <item itemvalue="Python.sudoku" />
-        <item itemvalue="Python.sine" />
-        <item itemvalue="Python.abs (1)" />
-        <item itemvalue="Python.abs" />
       </list>
     </recent_temporary>
   </component>
@@ -361,17 +342,42 @@
       <workItem from="1549636596318" duration="2709000" />
       <workItem from="1549890174899" duration="2214000" />
       <workItem from="1550238524903" duration="4102000" />
+      <workItem from="1550666039325" duration="2822000" />
+      <workItem from="1550674663119" duration="1800000" />
+      <workItem from="1550683869783" duration="12005000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9025000" />
+    <option name="totallyTimeSpent" value="25652000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1267" height="875" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24444444" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25679013" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.23293173" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32931727" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32931727" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25679013" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -385,14 +391,14 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" />
-      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32931727" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32931727" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="SciView" order="3" />
       <window_info anchor="right" id="Database" order="4" />
-    </layout>
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -408,30 +414,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cs344/lab02/abs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="915">
-          <caret line="65" selection-end-line="65" />
-          <folding>
-            <element signature="e#234#343#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/cs344/lab02/lab.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="570">
           <caret line="38" column="83" selection-start-line="38" selection-start-column="83" selection-end-line="38" selection-end-column="83" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cs344/lab02/sine.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="178">
-          <caret line="28" column="16" lean-forward="true" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="16" />
-          <folding>
-            <element signature="e#116#225#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -445,31 +431,108 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cs344/lab03/queens.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="43">
-          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/cs344/lab03/lab.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
-          <caret line="22" column="54" lean-forward="true" selection-start-line="22" selection-start-column="54" selection-end-line="22" selection-end-column="54" />
+          <caret line="22" column="54" selection-start-line="22" selection-start-column="54" selection-end-line="22" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///run/user/50120/snap.pycharm-professional/jupyter/nbserver-5546-open.html" />
+    <entry file="file://$PROJECT_DIR$/cs344-code/u02local/romania.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="22" lean-forward="true" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cs344-code/u03constraint/hello-jupyter.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cs344/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cs344/packages.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cs344-code/tools/aima/search.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cs344/lab02/abs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+          <folding>
+            <element signature="e#234#343#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cs344/lab02/romania.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-45">
+          <caret line="29" column="33" lean-forward="true" selection-start-line="29" selection-start-column="33" selection-end-line="29" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cs344/lab03/queens.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="11" column="14" lean-forward="true" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+          <folding>
+            <element signature="e#155#251#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/cs344-code/tools/aima/search.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="50" column="33" lean-forward="true" selection-start-line="50" selection-start-column="33" selection-end-line="50" selection-end-column="33" />
+        <state relative-caret-position="493">
+          <caret line="1011" column="30" lean-forward="true" selection-start-line="1011" selection-start-column="30" selection-end-line="1011" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cs344/homework01/answer1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="37" lean-forward="true" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cs344/lab02/sine.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="68" column="53" lean-forward="true" selection-start-line="68" selection-start-column="53" selection-end-line="68" selection-end-column="53" />
+          <folding>
+            <element signature="e#116#225#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cs344/homework01/homework1.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/cs344-code/tools/aima/csp.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="290" column="26" selection-start-line="290" selection-start-column="26" selection-end-line="290" selection-end-column="26" />
+        <state relative-caret-position="303">
+          <caret line="676" column="26" lean-forward="true" selection-start-line="676" selection-start-column="26" selection-end-line="676" selection-end-column="26" />
         </state>
       </provider>
     </entry>
